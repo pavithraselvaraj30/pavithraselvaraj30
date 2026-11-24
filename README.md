@@ -1,58 +1,71 @@
-# 👋 Hi, I'm Pavithra Selvaraj!
+# Pavithra Selvaraj
 
-🎓 B.Tech Artificial Intelligence and Data Science Student
+### B.Tech Artificial Intelligence and Data Science Student
 
-Welcome to my GitHub profile! I'm passionate about learning new technologies and improving my programming skills.
+I am an undergraduate student pursuing Artificial Intelligence and Data Science, with an interest in software development, machine learning, and cybersecurity. I am continuously developing my technical knowledge through programming practice, academic projects, and hands-on learning.
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
-- 💻 Interested in Python, Java and Software Development.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🔐 Interested in Cybersecurity.
-- 🚀 Working on my final-year project, CogniShield AI.
-- 🌱 Continuously learning and improving my technical skills.
+- Currently pursuing B.Tech in Artificial Intelligence and Data Science.
+- Interested in Artificial Intelligence, Machine Learning, and Software Development.
+- Building programming skills in Python and Java.
+- Learning database management and problem-solving techniques.
+- Working on an academic project focused on AI-driven cybersecurity.
+- Motivated to learn new technologies and develop practical solutions.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-- **Programming Languages:** Python, Java
-- **Database:** SQL
-- **Tools:** Git, GitHub
-- **Areas of Interest:** AI, Machine Learning, Cybersecurity
+**Programming Languages**
+- Python
+- Java
 
-## 📚 Currently Learning
+**Database**
+- SQL
 
-- Python Programming
-- Java Programming
-- Data Structures and Algorithms
-- SQL and DBMS
+**Core Interests**
+- Artificial Intelligence
 - Machine Learning
+- Cybersecurity
+- Software Development
 
-## 🚀 My Projects
+**Tools**
+- Git
+- GitHub
 
-### 1. CogniShield AI
-**Explainable Federated Multi-Agent Cyber Threat Prediction System**
+## Projects
 
-- Purpose: Predict cyber threats while protecting private data.
-- Technologies: AI, Machine Learning, Federated Learning and Explainable AI.
-- Status: In Progress.
+### CogniShield AI – Explainable Federated Multi-Agent Cyber Threat Prediction System
 
-### 2. Programming Practice
+An academic project focused on developing an intelligent cybersecurity system that predicts potential cyber threats while maintaining data privacy.
 
-- Python programming exercises.
-- Java coding problems.
-- Array and string operations.
-- Problem-solving practice.
+- **Domain:** Artificial Intelligence and Cybersecurity
+- **Concepts:** Federated Learning, Multi-Agent Systems, Explainable AI
+- **Objective:** Improve cyber threat prediction, privacy, and explainability.
+- **Status:** In Progress
 
-## 🎯 My Goal
+### Programming Practice
 
-To improve my programming knowledge, build useful projects and become a skilled Software Engineer.
+A collection of programming exercises developed to improve coding knowledge and problem-solving skills.
 
-## 🤝 Connect With Me
+- Python programming exercises
+- Java programming problems
+- Array and string operations
+- Basic data structures and algorithms
 
-- GitHub: https://github.com/pavithraselvaraj30
-- LinkedIn: Add your LinkedIn URL here.
+## Currently Learning
 
----
+- Python and Java programming
+- Data Structures and Algorithms
+- SQL and Database Management Systems
+- Machine Learning fundamentals
+- Software development concepts
 
-⭐ Thanks for visiting my profile!
+## Career Objective
+
+To build a strong foundation in software development and artificial intelligence, gain practical industry experience, and contribute to developing innovative technology solutions.
+
+## Connect With Me
+
+- **GitHub:** https://github.com/pavithraselvaraj30
+- **LinkedIn:** [Add your LinkedIn profile URL]
+
