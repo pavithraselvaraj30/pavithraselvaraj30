@@ -67,5 +67,5 @@ To build a strong foundation in software development and artificial intelligence
 ## Connect With Me
 
 - **GitHub:** https://github.com/pavithraselvaraj30
-- **LinkedIn:** [Add your LinkedIn profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/pavithra-selvaraj-868381393/
 
